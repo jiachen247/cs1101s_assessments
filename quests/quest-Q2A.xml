@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<CONTENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+<!-- ***********************************************************************
+**** QUEST Q2A
+************************************************************************ -->
+<TASK kind="quest" coverimage="https://i.imgur.com/w6vm66C.png" story="" number="Q2A" startdate="2019-01-23T00:00+08" duedate="2019-01-31T23:59+08" title="Quest 2">
+    <READING>Textbook</READING>
+    <TEXT>
+        story goes here
+    </TEXT>
+    <PROBLEMS>
+        <PROBLEM maxgrade="4" type="programming">
+            <TEXT>
+                question 1
+            </TEXT>
+            <SNIPPET>
+                <TEMPLATE>
+                // hshehhehehe
+                </TEMPLATE>
+                <SOLUTION>      
+                    true;
+                </SOLUTION>
+                <GRADER>    
+                    true;
+                </GRADER>
+            </SNIPPET>
+        </PROBLEM>
+    </PROBLEMS>
+    <TEXT> reminders goes here</TEXT>
+
+<DEPLOYMENT interpreter="1">
+        <EXTERNAL name="TWO_DIM_RUNES">
+            <SYMBOL>show</SYMBOL>
+        </EXTERNAL>
+    </DEPLOYMENT>
+    <GRADERDEPLOYMENT interpreter="1">
+        <EXTERNAL name="TWO_DIM_RUNES">
+          <SYMBOL>red</SYMBOL>
+        </EXTERNAL>
+    </GRADERDEPLOYMENT>
+</TASK>
+</CONTENT>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<CONTENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://128.199.210.247">
+
+<!-- ***********************************************************************
+**** PATH P1
+************************************************************************ -->
+<TASK
+  coverimage="https://i.imgur.com/yf2k1ER.png"
+  duedate="2019-01-18T23:59+08"
+  kind="path"
+  number="P1"
+  startdate="2019-01-16T13:00+08"
+  title="Path 1"
+>
+  <READING>Textbook</READING>
+  <WEBSUMMARY>
+  blah
+  </WEBSUMMARY>
+  <TEXT>
+    hello
+  </TEXT>
+
+  <PROBLEMS>
+ <PROBLEM maxgrade="0" type="mcq">
+        <TEXT>
+          1 + 1 = 
+        </TEXT>
+        <CHOICE correct="false" hint="duhhhh"><TEXT>`0`</TEXT></CHOICE>
+        <CHOICE correct="true"  hint="duhhhh"><TEXT>`1`</TEXT></CHOICE>
+        <CHOICE correct="false" hint="duhhhh"><TEXT>`2`</TEXT></CHOICE>
+        <CHOICE correct="false"><TEXT>None of the above</TEXT></CHOICE>
+ </PROBLEM>
+    </PROBLEMS>
+
+    <DEPLOYMENT interpreter="1">
+    </DEPLOYMENT>
+
+    <GRADERDEPLOYMENT interpreter="1">
+    </GRADERDEPLOYMENT>
+
+</TASK>
+</CONTENT>

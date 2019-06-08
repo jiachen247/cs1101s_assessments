@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<CONTENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://128.199.210.247">
+
+<!-- ***********************************************************************
+**** CONTEST #3A
+************************************************************************ -->
+<TASK kind="contest" coverimage="https://www.comp.nus.edu.sg/~cs1101s/images/runes.png" number="C3A" story="contest-3.2" startdate="2019-08-31T10:45+08" duedate="2019-09-10T23:59+08" title="Quest 3A">
+    <READING>Textbook Chapters 1 to 4</READING>
+    <TEXT>
+        QUESTION REDACTED
+    </TEXT>
+    <PROBLEMS>
+        <PROBLEM type="programming" maxgrade="0">
+            <TEXT>
+                Question 1
+            </TEXT>
+            <SNIPPET>
+                <TEMPLATE>
+                    // Template code goes here
+                </TEMPLATE>
+            </SNIPPET>
+        </PROBLEM>
+    </PROBLEMS>
+
+    <DEPLOYMENT interpreter="1">
+    </DEPLOYMENT>
+</TASK>
+
+</CONTENT>
