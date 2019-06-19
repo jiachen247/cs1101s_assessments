@@ -1,0 +1,78 @@
+<?xml version="1.0"?>
+<CONTENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://128.199.210.247">
+
+<!-- ***********************************************************************
+**** PE P1A
+************************************************************************ -->
+<TASK kind="mission" coverimage="https://i.imgur.com/amJe5Bb.png" story="mission-2" number="PE1" startdate="2019-01-16T00:00+08" duedate="2019-01-25T23:59+08" title="Practical Exam">
+    <PASSWORD>jiachenisawesome</PASSWORD>
+    <READING>Textbook Chapter 1 to 4</READING>
+    <WEBSUMMARY>
+        web summary
+    </WEBSUMMARY>
+    <TEXT>
+        Super hard pe qn
+    </TEXT>
+    <PROBLEMS>
+        <PROBLEM maxgrade="0" type="programming">
+            <TEXT>
+                blahh
+            </TEXT>
+            <SNIPPET>
+                <TEMPLATE>
+                    // blah
+                </TEMPLATE>
+                <SOLUTION>
+                    // there isnt one
+                </SOLUTION>
+            </SNIPPET>
+        </PROBLEM>
+        <PROBLEM maxgrade="4" type="programming">
+          <TEXT>
+            Qustion 2
+          </TEXT>
+          <SNIPPET>
+            <TEMPLATE>
+                //
+            </TEMPLATE>
+            <SOLUTION>  
+                ..
+            </SOLUTION>
+            <GRADER>
+                true;
+            </GRADER>
+          </SNIPPET>
+
+        </PROBLEM>
+        <PROBLEM maxgrade="4" type="programming">
+          <TEXT>
+            Question
+          </TEXT>
+          <SNIPPET>
+            <TEMPLATE>  
+                //
+            </TEMPLATE>
+            <SOLUTION>
+                true
+            </SOLUTION>
+            <GRADER>
+                true
+            </GRADER>
+          </SNIPPET>
+        </PROBLEM>
+    </PROBLEMS>
+    <TEXT>
+        Reminders goes here
+    </TEXT>
+    <DEPLOYMENT interpreter="1">
+        <EXTERNAL name="TWO_DIM_RUNES">
+            <SYMBOL>show</SYMBOL>
+        </EXTERNAL>
+    </DEPLOYMENT>
+    <GRADERDEPLOYMENT interpreter="1">
+        <EXTERNAL name="TWO_DIM_RUNES">
+          <SYMBOL>red</SYMBOL>
+        </EXTERNAL>
+    </GRADERDEPLOYMENT>
+</TASK>
+</CONTENT>
