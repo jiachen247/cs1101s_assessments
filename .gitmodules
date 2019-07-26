@@ -1,0 +1,3 @@
+[submodule "practicals"]
+	path = practicals
+	url = git@github.com:jiachen247/cs1101s_assessments_private.git
